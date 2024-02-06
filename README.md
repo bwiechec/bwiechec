@@ -2,9 +2,12 @@
 ## 👨 I'm Software Developer
 
 ### 🤯 Mainly focusing on: 
-- React 
-- PostgreSQL
-- PHP
+- 👨‍💻 FRONTEND:
+   - React
+- 👨‍💻 BACKEND:
+   - SQL (PostgreSQL)
+   - PHP (Symfony)
+   - Python (Fast API)
 
 ### ⌨️ I've done some projects in my free time:
 - Textenger ***[github](https://github.com/bwiechec/Textenger)***; 
