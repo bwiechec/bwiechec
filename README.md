@@ -3,11 +3,12 @@
 
 ### 🤯 Mainly focusing on: 
 - 👨‍💻 FRONTEND:
-   - React
+   - JavaScript (React, Next.js)
 - 👨‍💻 BACKEND:
    - SQL (PostgreSQL)
    - PHP (Symfony)
    - Python (Fast API)
+   - JavaScript (Node.js)
 
 ### ⌨️ I've done some projects in my free time:
 - Textenger ***[github](https://github.com/bwiechec/Textenger)***; 
